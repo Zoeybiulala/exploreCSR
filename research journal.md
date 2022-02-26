@@ -53,5 +53,6 @@
 * in-processing algorithms:
    * [1](https://proceedings.neurips.cc/paper/2019/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf)
    * [2](https://dl.acm.org/doi/pdf/10.1145/3219819.3220088?ref=https://githubhelp.com)
+   * [3](https://www-ai.cs.tu-dortmund.de/LEHRE/SEMINARE/WS2021/TrustworthyAIMachineLearning/literature/yadav2019.pdfhttps://www-ai.cs.tu-dortmund.de/LEHRE/SEMINARE/WS2021/TrustworthyAIMachineLearning/literature/yadav2019.pdf)
 * dataset:
    * [dataset for the fair algorith](https://github.com/MilkaLichtblau/FA-IR_Ranking/tree/FA-IR_CIKM_17)
