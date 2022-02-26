@@ -44,4 +44,14 @@
 
 
 ## Week2 Feb 26 - March 4
-- [ ] reach out to authors and ask about the datasets and algorithms (waiting for response)
+- [x] reach out to authors and ask about the datasets and algorithms (waiting for response)
+* post-processing algorithms:
+   * [Det-Greedy](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691?casa_token=OYEXJHAX7skAAAAA:60-IaTPwHoFaDMIPaGv7GIH7prytYtksqNHfFQ0rqE1hmGogQyscfQ1Vs6MykbqvDZE6QN9uNPau) Then they hand coded the algorithm based on the pesudocode
+   * [FA\*IR](https://github.com/fair-search) contains java and python version
+   * [elasticsearch](https://github.com/fair-search/fairsearch-fair-for-elasticsearch)
+   * [also elastic](https://milkalichtblau.github.io/pdf/zehlike_2021_fair_ranking_multiple_protected_groups.pdf)
+* in-processing algorithms:
+   * [1](https://proceedings.neurips.cc/paper/2019/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf)
+   * [2](https://dl.acm.org/doi/pdf/10.1145/3219819.3220088?ref=https://githubhelp.com)
+* dataset:
+   * [dataset for the fair algorith](https://github.com/MilkaLichtblau/FA-IR_Ranking/tree/FA-IR_CIKM_17)
