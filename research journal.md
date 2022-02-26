@@ -26,7 +26,7 @@
 3. [Algorithmic Equity in The Hiring of Underrepresented IT job Candidates](https://www.emerald.com/insight/content/doi/10.1108/OIR-10-2018-0334/full/html)
     * Main Takeaways:
         * Methodology: Feminist design and Theory by Costanza-Chock
-        * types of bias (Chou et all.)
+        * types of bias (Chou et al.)
             * Data set bias
             * Association bias
             * Automation bias
