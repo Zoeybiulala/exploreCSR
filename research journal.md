@@ -56,3 +56,4 @@
    * [3](https://www-ai.cs.tu-dortmund.de/LEHRE/SEMINARE/WS2021/TrustworthyAIMachineLearning/literature/yadav2019.pdfhttps://www-ai.cs.tu-dortmund.de/LEHRE/SEMINARE/WS2021/TrustworthyAIMachineLearning/literature/yadav2019.pdf)
 * dataset:
    * [dataset for the fair algorith](https://github.com/MilkaLichtblau/FA-IR_Ranking/tree/FA-IR_CIKM_17)
+   * [scraping from the web](https://arxiv.org/abs/1901.09451)
