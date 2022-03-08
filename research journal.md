@@ -57,3 +57,5 @@
 * dataset:
    * [dataset for the fair algorith](https://github.com/MilkaLichtblau/FA-IR_Ranking/tree/FA-IR_CIKM_17)
    * [scraping from the web](https://arxiv.org/abs/1901.09451)
+
+* [additional:](https://medium.com/@Excellarate/resume-ranking-using-machine-learning-implementation-47959a4e5d8e)
