@@ -109,5 +109,6 @@
 2. [Fairness through awareness](https://dl-acm-org.proxy.brynmawr.edu/doi/abs/10.1145/2090236.2090255)(Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold, Richard Zemel)
    * Main Takeaways
       *   proposed a framework such that 1) a task-specific metric to measure the compatibility of individual with the task (implemented in *themis-ml*) and 2) the metric should satisfy fairness constraints - similar individual being treated similarly
+      *   Interestingly pointed out what kind of "evils" the model is trying to protect the outcome from (in Appendix A) 
 3. [Model-based and actual independence for fairness-aware classification](https://www.proquest.com/docview/1992787729?OpenUrlRefId=info:xri/sid:primo&accountid=9772) (Kamishima, Toshihiro; Akaho, Shotaro; Asoh, Hideki; Sakuma, Jun)
 
