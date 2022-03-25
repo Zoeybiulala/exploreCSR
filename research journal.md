@@ -90,4 +90,19 @@
    * [fair-search-python](https://github.com/fair-search/fairsearch-fair-python)
       * similar to java version
 
-
+## Week4 March 21 - March 27
+- [x] Machine Learing based algorithms
+1. [Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://arxiv.org/abs/1905.01989)(Sahin Cem Geyik, Stuart Ambler, Krishnaram Kenthapadi)
+   * [source code](https://github.com/cosmicBboy/themis-ml) how to use??
+   * Main Takeaways:
+      * ML model to produce a ranked list, then an algorithm to rerank it. 
+      * proposes complementary measures for qualifying the fairness of the ranked candidate lists
+      * real-life(in LinkedIn specifically) evaluation of the algorithm (new)
+      * Four experiments:
+         * Baseline (B): classifier trained on all available input variables, including protected attributes.
+         * Remove Protected Attribute (RPA): classifier where input variables do not contain protected attributes. This is the naive fairness-aware approach. (shows decrease in mean-difference)
+         * Reject-Option Classification (ROC): classifier using the reject-option classification method. (this actually showed preference of Women over Men) 
+         * Additive Counterfactually Fair Model (ACF): classifier using the additive counterfactually fair method. (shows decrease in mean-difference)
+2. [Fairness through awareness](https://dl-acm-org.proxy.brynmawr.edu/doi/abs/10.1145/2090236.2090255)(Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold, Richard Zemel)
+3. [Model-based and actual independence for fairness-aware classification](https://www.proquest.com/docview/1992787729?OpenUrlRefId=info:xri/sid:primo&accountid=9772) (Kamishima, Toshihiro; Akaho, Shotaro; Asoh, Hideki; Sakuma, Jun)
+4. 
