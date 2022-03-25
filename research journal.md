@@ -93,9 +93,10 @@
 ## Week4 March 21 - March 27
 - [x] Machine Learing based algorithms
 1. [Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://arxiv.org/abs/1905.01989)(Sahin Cem Geyik, Stuart Ambler, Krishnaram Kenthapadi)
-   * [source code](https://github.com/cosmicBboy/themis-ml) how to use??
+   * [source code](https://github.com/cosmicBboy/themis-ml) 
+   * [Themis-ml: A Fairness-Aware Machine Learning Interface for End-To-End Discrimination Discovery and Mitigation](https://doi.org/10.1080/15228835.2017.1416512): a more in depth analysis of this algorithm
    * Main Takeaways:
-      * ML model to produce a ranked list, then an algorithm to rerank it. 
+      * ML model to produce a ranked list, then an algorithm to *rerank* it over protected attributes. 
       * proposes complementary measures for qualifying the fairness of the ranked candidate lists
       * real-life(in LinkedIn specifically) evaluation of the algorithm (new)
       * Four experiments:
@@ -103,6 +104,10 @@
          * Remove Protected Attribute (RPA): classifier where input variables do not contain protected attributes. This is the naive fairness-aware approach. (shows decrease in mean-difference)
          * Reject-Option Classification (ROC): classifier using the reject-option classification method. (this actually showed preference of Women over Men) 
          * Additive Counterfactually Fair Model (ACF): classifier using the additive counterfactually fair method. (shows decrease in mean-difference)
+
+
 2. [Fairness through awareness](https://dl-acm-org.proxy.brynmawr.edu/doi/abs/10.1145/2090236.2090255)(Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold, Richard Zemel)
+   * Main Takeaways
+      *   proposed a framework such that 1) a task-specific metric to measure the compatibility of individual with the task (implemented in *themis-ml*) and 2) the metric should satisfy fairness constraints - similar individual being treated similarly
 3. [Model-based and actual independence for fairness-aware classification](https://www.proquest.com/docview/1992787729?OpenUrlRefId=info:xri/sid:primo&accountid=9772) (Kamishima, Toshihiro; Akaho, Shotaro; Asoh, Hideki; Sakuma, Jun)
-4. 
+
